@@ -158,7 +158,7 @@ $btnGitHub.Add_Click({
 
 # Botón: PayPal
 $btnPayPal = New-Object System.Windows.Forms.Button
-$btnPayPal.Text = "Apóyame en PayPal"
+$btnPayPal.Text = "Apoyame en PayPal"
 $btnPayPal.Location = New-Object System.Drawing.Point(440, 450)
 $btnPayPal.Width = 180
 Estilo-Boton $btnPayPal ([System.Drawing.Color]::FromArgb(0, 204, 102))
