@@ -1,14 +1,19 @@
-# fakeCPU
-fakeCPU es una herramienta gráfica desarrollada en PowerShell que permite modificar el nombre visual del procesador que se muestra en el sistema Windows. Ideal para pruebas, personalización o simplemente por diversión, esta utilidad proporciona una interfaz amigable y moderna para:
+fakeCPU es una herramienta educativa desarrollada con PowerShell que permite cambiar de forma visual el nombre del procesador que aparece en las propiedades del sistema de Windows.
 
-Ver el nombre actual del procesador desde el registro del sistema.
+🔧 ¿Qué hace?
+Esta herramienta no modifica el hardware real ni el rendimiento del procesador. Solo cambia el texto del nombre del CPU que se muestra visualmente en el sistema, a través del registro de Windows.
 
-Cambiar el nombre visual del procesador de forma rápida.
+🎯 ¿Para qué sirve?
+El objetivo principal de fakeCPU es fines educativos y demostrativos, como:
 
-Restaurar el nombre original fácilmente.
+Entender cómo funciona el registro de Windows.
 
-Reiniciar el equipo desde la misma interfaz para aplicar los cambios.
+Mostrar cómo algunos datos del sistema pueden ser manipulados visualmente.
 
-Créditos y enlaces del desarrollador (GitHub, YouTube, PayPal).
+Concienciar a los usuarios sobre posibles engaños al momento de comprar o vender un equipo usado.
 
-⚠️ Esta herramienta modifica entradas del registro de Windows. Se recomienda su uso únicamente con fines educativos o personales, y siempre ejecutándola como administrador.
+⚠️ IMPORTANTE
+Esta herramienta NO debe utilizarse para engañar o defraudar a otras personas. El nombre del procesador puede ser cambiado fácilmente, por lo que se recomienda verificar siempre el modelo real del CPU usando herramientas confiables como CPU-Z, o el administrador de tareas en la pestaña de rendimiento.
+
+💡 Transparencia y ética tecnológica
+La intención de este proyecto es formar usuarios más conscientes y responsables. Saber que esta información puede ser alterada es una forma de protegerte como comprador y también fomentar prácticas transparentes al vender un equipo.
